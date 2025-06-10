@@ -1,3 +1,8 @@
+#include <iostream>
+#include <fstream>
+#include <cstring>
+#include <cstdlib>
+#include <cstdint>
 
 struct Student {
     char name[30];
