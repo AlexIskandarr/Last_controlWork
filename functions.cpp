@@ -1,9 +1,4 @@
 #include "header.h"
-#include <iostream>
-#include <fstream>
-#include <cstring>
-#include <cstdlib>
-#include <cstdint>
 
 int32_t countLines(const char* filename) {
     std::ifstream fin(filename);
